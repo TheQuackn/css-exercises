@@ -1,0 +1,21 @@
+/*The styles for exercise 2*/
+
+.classone {
+    background-color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#idone {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.classone.classtwo {
+    font-size: 24px;
+}
+
+#idtwo {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
